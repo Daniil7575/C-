@@ -1,0 +1,13 @@
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\bin\Debug\netcoreapp3.1\stack_array_countsort.exe
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\bin\Debug\netcoreapp3.1\stack_array_countsort.deps.json
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\bin\Debug\netcoreapp3.1\stack_array_countsort.runtimeconfig.json
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\bin\Debug\netcoreapp3.1\stack_array_countsort.runtimeconfig.dev.json
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\bin\Debug\netcoreapp3.1\stack_array_countsort.dll
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\bin\Debug\netcoreapp3.1\stack_array_countsort.pdb
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\obj\Debug\netcoreapp3.1\stack_array_countsort.csprojAssemblyReference.cache
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\obj\Debug\netcoreapp3.1\stack_array_countsort.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\obj\Debug\netcoreapp3.1\stack_array_countsort.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\obj\Debug\netcoreapp3.1\stack_array_countsort.AssemblyInfo.cs
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\obj\Debug\netcoreapp3.1\stack_array_countsort.dll
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\obj\Debug\netcoreapp3.1\stack_array_countsort.pdb
+C:\Users\spide\source\repos\stack_array_countsort\stack_array_countsort\obj\Debug\netcoreapp3.1\stack_array_countsort.genruntimeconfig.cache

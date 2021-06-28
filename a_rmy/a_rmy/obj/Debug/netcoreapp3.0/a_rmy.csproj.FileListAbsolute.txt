@@ -1,0 +1,13 @@
+C:\Users\spide\source\repos\a_rmy\a_rmy\bin\Debug\netcoreapp3.0\a_rmy.exe
+C:\Users\spide\source\repos\a_rmy\a_rmy\bin\Debug\netcoreapp3.0\a_rmy.deps.json
+C:\Users\spide\source\repos\a_rmy\a_rmy\bin\Debug\netcoreapp3.0\a_rmy.runtimeconfig.json
+C:\Users\spide\source\repos\a_rmy\a_rmy\bin\Debug\netcoreapp3.0\a_rmy.runtimeconfig.dev.json
+C:\Users\spide\source\repos\a_rmy\a_rmy\bin\Debug\netcoreapp3.0\a_rmy.dll
+C:\Users\spide\source\repos\a_rmy\a_rmy\bin\Debug\netcoreapp3.0\a_rmy.pdb
+C:\Users\spide\source\repos\a_rmy\a_rmy\obj\Debug\netcoreapp3.0\a_rmy.csprojAssemblyReference.cache
+C:\Users\spide\source\repos\a_rmy\a_rmy\obj\Debug\netcoreapp3.0\a_rmy.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\a_rmy\a_rmy\obj\Debug\netcoreapp3.0\a_rmy.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\a_rmy\a_rmy\obj\Debug\netcoreapp3.0\a_rmy.AssemblyInfo.cs
+C:\Users\spide\source\repos\a_rmy\a_rmy\obj\Debug\netcoreapp3.0\a_rmy.dll
+C:\Users\spide\source\repos\a_rmy\a_rmy\obj\Debug\netcoreapp3.0\a_rmy.pdb
+C:\Users\spide\source\repos\a_rmy\a_rmy\obj\Debug\netcoreapp3.0\a_rmy.genruntimeconfig.cache

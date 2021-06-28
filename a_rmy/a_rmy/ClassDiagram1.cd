@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="a_rmy.Unit">
+    <Position X="11.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAAAAiAQAAAAAEAQAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="a_rmy.Ammo">
+    <Position X="7.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAgAEAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="a_rmy.Armor">
+    <Position X="11.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAIAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="a_rmy.Mech">
+    <Position X="9.25" Y="3.5" Width="2" />
+    <InheritanceLine Type="a_rmy.Unit" FixedFromPoint="true">
+      <Path>
+        <Point X="12.312" Y="3.517" />
+        <Point X="12.312" Y="4.535" />
+        <Point X="11.25" Y="4.535" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="ammo" Type="a_rmy.Ammo" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="10.25" Y="5.569" />
+        <Point X="10.25" Y="6.438" />
+        <Point X="9.25" Y="6.438" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAAAgAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ammo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="a_rmy.Soldier">
+    <Position X="13.25" Y="3.5" Width="2" />
+    <InheritanceLine Type="a_rmy.Unit" FixedFromPoint="true">
+      <Path>
+        <Point X="12.312" Y="3.517" />
+        <Point X="12.312" Y="4.535" />
+        <Point X="13.25" Y="4.535" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAABAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="armor" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="a_rmy.Animal">
+    <Position X="16.75" Y="3.5" Width="2" />
+    <InheritanceLine Type="a_rmy.Unit" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.25" Y="2.812" />
+        <Point X="16.552" Y="2.812" />
+        <Point X="16.552" Y="4.062" />
+        <Point X="16.75" Y="4.062" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAACAAAAAAAAAAAACAQAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="a_rmy.Rider">
+    <Position X="15.25" Y="5.5" Width="1.5" />
+    <InheritanceLine Type="a_rmy.Unit" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.25" Y="3.313" />
+        <Point X="16" Y="3.313" />
+        <Point X="16" Y="5.5" />
+      </Path>
+    </InheritanceLine>
+    <AssociationLine Name="animal" Type="a_rmy.Animal" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="16.517" Y="5.5" />
+        <Point X="16.517" Y="5" />
+        <Point X="16.75" Y="5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="soldier" Type="a_rmy.Soldier" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="15.5" Y="5.5" />
+        <Point X="15.5" Y="5" />
+        <Point X="15.25" Y="5" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAKAQAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="animal" />
+      <Field Name="soldier" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="a_rmy.Program">
+    <Position X="8.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAIQAAAAAAgAAAAEAAAQAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="units" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

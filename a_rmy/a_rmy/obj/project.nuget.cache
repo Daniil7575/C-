@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "D7y22SN78pG13Nogwku4j+8f8JVM/Rg8VEXUdgNAsb9WYcswZAPdtgzMbCU4JBPt4nImlCmSTBB1jZDf2yovVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\spide\\source\\repos\\a_rmy\\a_rmy\\a_rmy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\spide\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\spide\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\spide\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\spide\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

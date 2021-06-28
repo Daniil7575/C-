@@ -1,0 +1,26 @@
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.exe
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.deps.json
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.runtimeconfig.json
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.runtimeconfig.dev.json
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.dll
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.pdb
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.csprojAssemblyReference.cache
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.AssemblyInfoInputs.cache
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.AssemblyInfo.cs
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.dll
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.pdb
+C:\Users\spide\source\repos\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.genruntimeconfig.cache
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.exe
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.deps.json
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.runtimeconfig.json
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.runtimeconfig.dev.json
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.dll
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\bin\Debug\netcoreapp3.1\practice_OS_BruteForce.pdb
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.csprojAssemblyReference.cache
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.AssemblyInfoInputs.cache
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.AssemblyInfo.cs
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.dll
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.pdb
+D:\Program Files (x86)\github\practice_OS_BruteForce\practice_OS_BruteForce\obj\Debug\netcoreapp3.1\practice_OS_BruteForce.genruntimeconfig.cache
